@@ -1,0 +1,10 @@
+# Site settings
+title: Cats&Dogs
+description: > # this means to ignore newlines until "baseurl:"
+    My progress in the course project.
+baseurl: "/"
+url: "https://http://rizar.github.io/"
+github_username:  rizar
+
+# Build settings
+markdown: kramdown
