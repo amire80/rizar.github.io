@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Dzmitry Bahdanau and this is my professional webpage and blog. It 
+is currently under construction, so please tolerate its rather boring looks.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a first-year PhD candidate at the famous 
+[Montreal Institute of Learning Algorithms](http://www.mila.umontreal.ca/) 
+working under supervision of Yoshua Bengio. I focus on the problem of structured 
+prediction, which is an umbrella term for many problems that amount  
+to learning a transformation from a structured input to a structured output. 
+Examples of structured prediction tasks include machine translation, 
+speech recognition, text summarization and many others. 
+While these tasks are often studied in separate disciplines, I think
+it makes a lot of sense to have a unified perspective and 
+aim for broadly-applicable generic methods. 
