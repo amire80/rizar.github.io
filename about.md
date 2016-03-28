@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+![photo]({{site.baseurl}}/downloads/yearbook_photo.jpg)
+
 My name is Dzmitry Bahdanau and this is my professional webpage and blog. It 
 is currently under construction, so please tolerate its rather boring looks.
 
@@ -16,3 +18,5 @@ tasks include machine translation, speech recognition, text summarization and
 many others.  While these tasks are often studied in separate disciplines, I
 think it makes a lot of sense to have a unified perspective and aim for
 broadly-applicable generic methods. 
+
+[My publications at Google Scholar](https://scholar.google.de/citations?user=Nq0dVMcAAAAJ&hl=de&oi=ao)
