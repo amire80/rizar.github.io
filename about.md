@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About Me
+title: About Dima
 permalink: /about/
 ---
 
 ![photo]({{site.baseurl}}/downloads/yearbook_photo.jpg)
 
-My name is Dzmitry Bahdanau and this is my professional webpage and blog. It 
-is currently under construction, so please tolerate its rather boring looks.
+My name is Dzmitry Bahdanau (Dima is the preferred short version) and this is
+my professional webpage and blog. It is currently under construction, so please
+tolerate its rather boring looks.
 
 I am a first-year PhD candidate at the famous [Montreal Institute of Learning
 Algorithms](http://www.mila.umontreal.ca/) working under supervision of Yoshua
