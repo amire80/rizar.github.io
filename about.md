@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Dima
+title: About Me
 permalink: /about/
 ---
 
