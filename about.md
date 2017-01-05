@@ -6,8 +6,6 @@ permalink: /about/
 
 ![photo]({{site.baseurl}}/downloads/yearbook_photo.jpg)
 
-### About me 
-
 My name is Dzmitry Bahdanau (Dima is the preferred short version) and this is
 my professional webpage and blog. It is currently under construction, so please
 tolerate its rather boring looks.
