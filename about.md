@@ -43,7 +43,7 @@ In reverse chronological order:
     B. Merriënboer, D, Bahdanau, V. Dumoulin, D. Warde-Farley, J. Chorowski, Y. Bengio <br>
     2015, technical report
 - **neural machine translation, one of the first of its kind**
-  * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+  * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) <br>
     D. Bahdanau, K. Cho, Y. Bengio <br>
     ICLR 2015, oral
 
