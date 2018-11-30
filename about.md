@@ -10,20 +10,22 @@ My name is Dzmitry Bahdanau (Dima is the preferred short version) and this is
 my professional webpage and blog. It is currently under construction, so please
 tolerate its rather boring looks.
 
-I am a second-year PhD candidate at the famous [Montreal Institute of Learning
+I am a fourth-year PhD candidate at the famous [Montreal Institute of Learning
 Algorithms](http://www.mila.umontreal.ca/) working under supervision of Yoshua
-Bengio. I am passionate about making progress towards useful intelligent systems
-that mostly learn on their own with little human involvement and task-specific engineering.
-My attidude to research is a mix of an engineer's desire to build something helpful and
-of a scientist's wish to find the most basic and generic principles of learning and intelligence.
+Bengio. My long term research goal is organic human-computer interaction in natural language:
+think explaining your graphic design or spreadsheet software what you want,
+think giving language commands to your robot. Prior that to focusing on this direction I worked
+of machine comprehension, speech recognition and machine translation.
 
-A big of bragging: I invented the 
+A bit of bragging: I invented the 
 [content-based neural attention](https://arxiv.org/abs/1409.0473) that is nowadays widely used in 
 machine learning, primarily in machine translation (also developed concurrently 
 in the context of [Neural Turing Machines](https://arxiv.org/abs/1410.5401) and 
 [Memory Networks](https://arxiv.org/abs/1410.3916).
 
 ### Research highlights
+
+WILL SOON BE UPDATED
 
 In reverse chronological order:
 
