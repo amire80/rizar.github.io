@@ -36,7 +36,7 @@ A bit of bragging: I invented the
 
 - **a study on sytematic generalization in modular visual question answering architectures** <br> 
   [Systematic Generalization: What Is Required and Can It Be Learned?](https://arxiv.org/abs/1811.12889) <br>
-    D. Bahdanau, S. Murty, M. Noukhovitch, T. H. Nguyen, H. de Vries, A. Courville
+    D. Bahdanau, S. Murty, M. Noukhovitch, T. H. Nguyen, H. de Vries, A. Courville <br>
     ICLR 2019
 
 - **new platform to study sample efficiency of different instruction-following approaches** <br>
