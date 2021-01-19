@@ -1,7 +1,5 @@
 # Site settings
-title: "Dima's own spot in the WWW"
-description: > # this means to ignore newlines until "baseurl:"
-    Opinions, idea, errata
+title: "Dzmitry Bahdanau"
 baseurl: ""
 url: "https://rizar.github.io/"
 github_username:  rizar
