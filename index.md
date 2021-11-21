@@ -7,10 +7,13 @@ title: About Me
 
 Welcome to my webpage! 
 
-I am a research scientist at Element AI that has just been acquired by ServiceNow. I am also a Core Industry Member of [Mila](https://mila.quebec/) and Adjunct Professor at [McGill University](https://www.mcgill.ca/). The current goal of my research is to further the adoption of language user interfaces. To this
-end I am interested in semantic parsing and task-oriented dialogue methods, in particular their systematic (compositional) generalization and sample efficiency. My prior research interests include grounding language in vision and action, question answering, speech recognition, machine translation and structured prediction in general. 
+I am a research scientist at Element AI that has just been acquired by ServiceNow. I am also a Core Industry Member of [Mila](https://mila.quebec/) and Adjunct Professor at [McGill University](https://www.mcgill.ca/).
 
-I have recently completed my PhD at Mila working under supervision of Yoshua Bengio. 
+I believe Human Language Techonologies (HLT: a better name than NLP) will change the way humans interact with software and access knowledge. In fact, this has already happened (think web search), but this is just the beginning. I am interested in research questions at all levels of the HLT techonology stack including fundamentals of deep learning, foundation model training, task-specific algorithms (especially semantic parsing), user experience with AI systems. Keyword-wise, my recent and on-going work focuses on semantic parsing and task-oriented dialogue methods, code generation, systematic (compositional) generalization and sample efficiency of neural models. 
+
+My prior research interests include grounding language in vision and action, question answering, speech recognition, machine translation and structured prediction in general. 
+
+I have did my PhD at Mila working under supervision of Yoshua Bengio. 
 
 A bit of bragging: I invented the 
 [content-based neural attention](https://arxiv.org/abs/1409.0473) that is now a core tool in deep-learning-based natural language processing.
