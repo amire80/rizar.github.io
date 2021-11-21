@@ -17,17 +17,32 @@ A bit of bragging: I invented the
 
 ### Research Highlights
 
+- **Edge Transformer: a new neural architecture inspired by Prolog and Transformers**
+  [Systematic Generalization with Edge Transformers](https://openreview.net/forum?id=UUds0Jr_XWk) <br>
+    L. Bergen, T. J. O'Donnell, D. Bahdanau <br>
+    EMNLP 2021
+
+- **semantic parsing by labeling edges and nodes of an aligned graph** <br>
+  [PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models
+](https://arxiv.org/abs/2109.05093) <br>
+    T. Scholak, N. Schucher, D. Bahdanau <br>
+    EMNLP 2021
+
+- **state-of-the-art text-to-SQL with constrained inference** <br>
+  [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing
+](https://arxiv.org/abs/2110.07572) <br>
+    D. Jambor, D. Bahdanau <br>
+
+### Previous Work 
+
 - **a simpler and faster text-to-SQL model** <br>
   [DuoRAT: Towards Simpler Text-to-SQL Models](https://arxiv.org/abs/2010.11119) <br>
-    T. Scholar, R. Li, D. Bahdanau, H. de Vries, C. Pal <br>
-    under review
+    T. Scholak, R. Li, D. Bahdanau, H. de Vries, C. Pal <br>
+    NAACL 2020
 
 - **a position paper on ecological validity of existing datasets and benchmarks for language user interfaces** <br>
   [Towards Ecologically Valid Research on Language User Interfaces](https://arxiv.org/abs/2007.14435) <br>
     H. de Vries, D. Bahdanau, C. Manning <br>
-    under review
-
-### Previous Work 
 
 - **a new systematic generalization test for visual question answering** <br>
   [CLOSURE: Assessing Systematic Generalization of CLEVR Models](https://arxiv.org/abs/1912.05783) <br>
