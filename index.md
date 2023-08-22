@@ -5,7 +5,7 @@ title: About Me
 
 <img src='{{site.baseurl}}/downloads/headshot.jpg' width='255' height='330'>
 
-Welcome to my webpage! 
+Welcome to my webpage!
 
 I am a research scientist at Element AI that has just been acquired by ServiceNow. I am also a Core Industry Member of [Mila](https://mila.quebec/) and Adjunct Professor at [McGill University](https://www.mcgill.ca/).
 
@@ -26,15 +26,17 @@ A bit of bragging: I invented the
     EMNLP 2021
 
 - **semantic parsing by labeling edges and nodes of an aligned graph** <br>
+  [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing
+](https://arxiv.org/abs/2110.07572) <br>
+    D. Jambor, D. Bahdanau <br>
+
+
+- **state-of-the-art text-to-SQL with constrained inference** <br>
   [PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models
 ](https://arxiv.org/abs/2109.05093) <br>
     T. Scholak, N. Schucher, D. Bahdanau <br>
     EMNLP 2021
 
-- **state-of-the-art text-to-SQL with constrained inference** <br>
-  [LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing
-](https://arxiv.org/abs/2110.07572) <br>
-    D. Jambor, D. Bahdanau <br>
 
 ### Previous Work 
 
