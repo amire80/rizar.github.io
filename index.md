@@ -13,7 +13,7 @@ I believe Human Language Techonologies (HLT: a better name than NLP) will change
 
 My prior research interests include grounding language in vision and action, question answering, speech recognition, machine translation and structured prediction in general. 
 
-I have did my PhD at Mila working under supervision of Yoshua Bengio. 
+I did my PhD at Mila under the supervision of Yoshua Bengio. 
 
 A bit of bragging: I invented the 
 [content-based neural attention](https://arxiv.org/abs/1409.0473) that is now a core tool in deep-learning-based natural language processing.
